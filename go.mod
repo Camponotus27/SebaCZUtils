@@ -1,3 +1,3 @@
-module github.com/Camponotus27/httpclient
+module github.com/Camponotus27/SebaCZUtils
 
 go 1.19
